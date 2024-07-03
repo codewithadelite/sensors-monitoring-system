@@ -1,0 +1,2 @@
+export const METRICS = `METRICS`;
+export const LINE_CHART_SENSOR_DATA = `LINE_CHART_SENSOR_DATA`;
