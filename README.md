@@ -1,7 +1,7 @@
 # Sensors Monitoring System
 
 <p>
-    <a href="https://geneteraai.com" target="_blank">
+    <a href="#" target="_blank">
       <img
         src="https://i.postimg.cc/7P9rhgXs/sms-g-img.jpg"
         alt="SMS Screen"
